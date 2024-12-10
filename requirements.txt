@@ -3,5 +3,4 @@ pandas
 fastapi
 scikit-learn
 nltk
-json
 uvicorn
